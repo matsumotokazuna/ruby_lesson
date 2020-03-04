@@ -1,1 +1,2 @@
 # ruby_lesson
+DMM WEBCAMPの学習コンテンツRubyを学ぼうの確認問題です。
